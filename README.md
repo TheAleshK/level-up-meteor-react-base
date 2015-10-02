@@ -1,4 +1,4 @@
-# Level Up Tutorials Meteor + React Base v0.0.1
+# Level Up Tutorials Meteor + React Base v0.0.2
 
 ## What is this?
 

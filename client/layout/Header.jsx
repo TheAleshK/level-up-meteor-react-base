@@ -3,7 +3,7 @@ Header = React.createClass({
     render() {
         return (
             <header className="main-header">
-                <h1>React Meteor Base</h1>
+                <h1 className="site-title">React Meteor Base</h1>
                 <nav className="main-nav">
                     <ul>
                         <li>

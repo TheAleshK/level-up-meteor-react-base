@@ -4,12 +4,8 @@ HomeLayout = React.createClass({
         return (
             <div>
                 <Header />
-                <main>
-                  {this.props.content}
-                </main>
-                <footer className="site-footer">
-
-                </footer>
+                {this.props.content}
+                <Footer />
             </div>
         );
     }

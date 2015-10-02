@@ -2,7 +2,9 @@ Home = React.createClass({
     displayName: 'Home',
     render() {
         return (
-            <div>Home</div>
+            <main>
+                <h1>Home</h1>
+            </main>
         );
     }
 });
